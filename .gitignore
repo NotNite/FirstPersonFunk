@@ -7,3 +7,9 @@ obj/
 .vs/
 .vscode/
 *.user
+
+# Build deployments
+thunderstore/*.md
+thunderstore/BepInEx
+thunderstore/*.zip
+out/

@@ -1,0 +1,9 @@
+{
+  "name": "FirstPersonFunk",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/NotNite/FirstPersonFunk",
+  "description": "A first person camera that works on every character.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
